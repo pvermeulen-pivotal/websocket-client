@@ -1,8 +1,7 @@
 # Spring WebSocket Client
 
 A sample implementation demonstrating usage of Spring WebSockets for
-the client. For a compatible server implementation, see
-[https://github.com/jaysridhar/spring-websocket-server]. The server
+the client. For a compatible server implementation. The server
 includes a web-based client (HTML/JS), however this client
 demonstrates usage of WebSockets from Java in the Spring context.
 
