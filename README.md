@@ -1,4 +1,4 @@
-# Spring WebSocket Chat Client
+# Spring WebSocket Client
 
 A sample implementation demonstrating usage of Spring WebSockets for
 the client. For a compatible server implementation, see
